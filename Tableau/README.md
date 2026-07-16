@@ -38,8 +38,12 @@ Tableau/
 │
 ├── Data/
 │   ├── Excel File/
-│   │   ├── CovidDeaths.xlsx
-│   │   └── CovidVaccinations.xlsx
+│   │   ├── Tableau Table 1.xlsx
+│   │   ├── Tableau Table 2.xlsx
+│   │   ├── Tableau Table 3.xlsx
+│   │   ├── Tableau Table 4.xlsx
+│   │   ├── Tableau Table 5.xlsx
+│   │   └── Tableau Table 6.xlsx
 │   │
 │   └── SQL Query/
 │       ├── Data Retrieving Queries.sql
