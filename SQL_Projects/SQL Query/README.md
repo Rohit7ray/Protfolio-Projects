@@ -42,7 +42,7 @@ The project uses two datasets:
 - Created reusable SQL Views for reporting and visualization.
 
   
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 SQL Query/
