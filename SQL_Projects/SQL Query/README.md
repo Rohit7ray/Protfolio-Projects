@@ -41,6 +41,16 @@ The project uses two datasets:
 - Tracked cumulative vaccinations using SQL Window Functions.
 - Created reusable SQL Views for reporting and visualization.
 
+  
+## 📁 Folder Structure
+
+```
+SQL Query/
+├── CovidDeaths.sql
+├── CovidDeaths vs CovidVaccinated.sql
+└── README.md
+```
+
 ## Learning Outcomes
 
 This project helped strengthen my understanding of:
