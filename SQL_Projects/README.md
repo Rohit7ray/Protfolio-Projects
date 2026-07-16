@@ -11,7 +11,7 @@ This project uses two COVID-19 datasets:
 - **CovidDeaths** – Contains country-wise COVID-19 cases, deaths, and population data.
 - **CovidVaccinations** – Contains global COVID-19 vaccination records.
 
-## Repository Structure
+## Folder Structure
 
 ```
 SQL_Projects/
