@@ -1,5 +1,5 @@
 
-# Nashville Housing Data Cleaning using SQL
+# Housing Data Cleaning using SQL
 
 A SQL data cleaning project focused on preparing a real-world housing dataset for analysis by transforming, standardizing, and improving data quality using Microsoft SQL Server.
 
@@ -31,7 +31,7 @@ The objective of this project is to clean and transform raw housing sales data i
 ## 📂 Repository Structure
 
 ```text
-  Data Cleaning/
+Data Cleaning/
 │
 ├── Housing_data.csv
 ├── Data Cleaning.sql
