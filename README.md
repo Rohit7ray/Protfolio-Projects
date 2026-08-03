@@ -9,11 +9,11 @@ These projects showcase the complete analytics lifecycle—from cleaning raw dat
 ```text
 Portfolio-Projects/
 │
-├── COVID-19-Tableau-Dashboard/
+├── Tableau/
 │
-├── SQL-COVID-19-Analysis/
+├── SWL Project/
 │
-├── Nashville-Housing-Data-Cleaning/
+├── Data Cleaning/
 │
 └── README.md
 ```
